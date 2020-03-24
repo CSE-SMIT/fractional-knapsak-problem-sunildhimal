@@ -1,3 +1,3 @@
 n = int(input())
-print("Hello")
-print("Hello")
+print("hello")
+print("hello")
